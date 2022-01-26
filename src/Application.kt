@@ -53,4 +53,3 @@ fun Application.module(testing: Boolean = false) {
 
     install(CallLogging)
 }
-
