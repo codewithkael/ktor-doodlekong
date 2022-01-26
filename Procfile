@@ -1,1 +1,1 @@
-web:    java -jar build/libs/ktor-doodlekong-0.0.1-SNAPSHOT-all.jar
+web: java -jar build/libs/ktor-doodlekong-0.0.1-SNAPSHOT-all.jar
